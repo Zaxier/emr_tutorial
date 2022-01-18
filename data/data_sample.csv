@@ -1,0 +1,4 @@
+name, inspection_result, inspection_closed_business, violation_type, violation_points
+100 LB CLAM, Unsatisfactory, FALSE, BLUE, 5
+100 PERCENT NUTRICION, Unsatisfactory, FALSE, BLUE, 5
+7-ELEVEN #2361-39423A, Complete, FALSE, , 0
